@@ -1,0 +1,6 @@
+{
+  "name": "Meridian | Tech Publication & Code Academy",
+  "description": "A premier technical publication and interactive learning platform covering software engineering, data systems, AI, and global nomad travel guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
